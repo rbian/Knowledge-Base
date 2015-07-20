@@ -3,7 +3,7 @@ The device mapper is Linux kernel's framework for mapping physical block devices
 Device mapper works by passing data from a virtual block device, which is provided by the device mapper itself, to another block device. Data can be also modified in transition, which is performed, for example, in the case of device mapper providing disk encryption or simulation of unreliable hardware behavior.
 
 #Device Mapper Arch
-![](/home/rbian/Downloads/image002.gif)
+![](http://www.ibm.com/developerworks/cn/linux/l-devmapper/images/image002.gif)
 
 #[Dmsetup commands](https://wiki.gentoo.org/wiki/Device-mapper)
 
