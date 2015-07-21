@@ -1,13 +1,13 @@
 #What is it ?
 netcf is
 
-*a library for configuring network interfaces
+* a library for configuring network interfaces
 
-*a command line tool (ncftool) to do the same from the command line
+* a command line tool (ncftool) to do the same from the command line
 
-*distribution-agnostic and supports multiple distributions and operating systems (well, soon, anyway)
+* distribution-agnostic and supports multiple distributions and operating systems (well, soon, anyway)
 
-*sets up Ethernet interfaces, bridges, and bonds
+* sets up Ethernet interfaces, bridges, and bonds
 
 Both ​libvirt and ​NetworkManager need this functionality - netcf implements what is common to both of them.
 
