@@ -1,3 +1,5 @@
 # Knowledge-Base
 
-This is for shared knowledges for all libvirt features.
+Knowledge Base for libvirt features.
+
+[Markdown 语法说明](http://wowubuntu.com/markdown/basic.html)
